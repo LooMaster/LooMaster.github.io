@@ -1,7 +1,6 @@
 
 
-[![Lucas-061](https://img.shields.io/badge/Lucas-061-github-blue?logo=github)](https://github.com/Lucas-061)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Lucas--061-blue?logo=github)](https://github.com/Lucas-061)
 He is running.
 
 #### Contact
